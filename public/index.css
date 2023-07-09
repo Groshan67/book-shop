@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Vazir-Medium-UI";
+  src: url("./fonts/Vazir-Medium-UI.woff");
+}
+
+body {
+  font-family: "Vazir-Medium-UI";
+}
